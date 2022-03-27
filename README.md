@@ -12,16 +12,19 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/tahir-hussain-1057381a3/" target="_blank">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="22px" src="https://camo.githubusercontent.com/8c244a7a7b8a6e767d241c9a6c5e1b5e13ea693770c52bbc3fe564ba4044a4c9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3137342f3137343835372e706e67"  />
 </a> 
 <a href="https://tiger07860.github.io/mywork2/" target="_blank">
-  <img align="left" width="26px" src="data:image/png;base64,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" />
+  <img align="left" width="26px" src="https://camo.githubusercontent.com/1733971dd4cbd0a50afddd9129ff189d9ae79c108eb1c75d31c2e8a10034bac8/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313631313930323437333338332f4344794175547937352e706e673f6175746f3d636f6d7072657373" />
 </a>  
 <a href="mailto:tahir.hussain2k@gmail.com" target="_blank">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://camo.githubusercontent.com/898db73904e0e8df853ab6cb78b06b92295417dfd04cca73c3745e0b717455ad/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3238312f3238313736392e706e67" />
 </a> 
 <a href="https://discordapp.com/users/769089477993562152" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" />
+</a>
+<a href="https://www.instagram.com/tahir_hussain_0786/" target="_blank">
+  <img align="left" width="26px" src="https://camo.githubusercontent.com/c675a744c9ed164d23975996597f0b75e65cf5094fddde41c24f6854c39a05a0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61352f496e7374616772616d5f69636f6e2e706e672f3130323470782d496e7374616772616d5f69636f6e2e706e67" />
 </a>
 </br>
 
@@ -44,7 +47,7 @@
 
 ## Github Stats
 
-![Tahir Hussain Github stats](https://github-readme-stats.vercel.app/api?username=tiger07860&show_icons=true&theme=gotham)
+![Jatin Jindal Github stats](https://github-readme-stats.vercel.app/api?username=tiger07860&show_icons=true&theme=gotham)
 
 ## Top Languages
 
